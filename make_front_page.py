@@ -14,8 +14,7 @@ BOXBG = (238, 231, 214)
 GREY = (84, 78, 66)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-PHOTO = os.path.join(HERE, "media-generation-lead-photo-0-dfc34c62-"
-                          "e4a3-4724-befa-bab19ebe5212.png")
+PHOTO = os.path.join(HERE, "lead-photo.png")
 OUT = os.path.join(HERE, "entry.png")
 
 NOTO = "/usr/share/fonts/truetype/noto/"
